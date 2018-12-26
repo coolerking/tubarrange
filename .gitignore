@@ -1,3 +1,7 @@
 full_tub/
 tub/
 data/
+build/
+dist/
+tubarrange.egg-info/
+.git
